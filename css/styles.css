@@ -12,3 +12,12 @@ body{
 #color{
   background-color: #e4c164  ;
 }
+#header{
+  font-size: 90px ;
+  color:  white ;
+}
+#me{
+  float :right ;
+  color: white ;
+  font-size: 50px
+}
