@@ -2,20 +2,20 @@ h1 {
   text-align: center;
 }
 
-}
 
-.color{
-  background-color:#eee;
-}
-
-.bon{
-  font-size: 16px;
+  .bon{
+   padding-top: 80px;
+  font-size: 20px;
   text-align: center;
   background-color: ;
+  line-height: 50px;
 }
 
   .bong{
-  font-size: 16px;
+    padding-top: 80px;
+    padding-left: 30px;
+    line-height: 30px;
+  font-size: 20px;
   background-color:#B5B5B ;
 }
 .navbar {
@@ -41,7 +41,7 @@ h1 {
 }
 .main {
   font-size: 200px;
-  margin-top: -540px;
+  margin-top: -560px;
   line-height: 100px;
   text-indent: opx;
   padding-top: 00px;
@@ -54,7 +54,7 @@ h1 {
   padding-left: 1000px
 }
 *{
-  font-family: 'Baloo', cursive;
+  font-family: 'Roboto', sans-serif;
   padding:0;
   margin:0;
   background: black
@@ -73,7 +73,7 @@ h1 {
 }
 .para{
   padding-left: 50px;
-  font family: 'Baloo', cursive;;
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
   color: white;
   background-color: black;
@@ -89,10 +89,12 @@ h1 {
   position: relative;
   top:200px;
   font-size: 25px;
+  font-family: 'Baloo', cursive;
 
   text-align: center;
 
 }
 .imp{
   font-size: 200px;
+  font-family: 'Baloo', cursive;
 }
