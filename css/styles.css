@@ -2,8 +2,9 @@ h1 {
   text-align: center;
 }
 .navigation{
-  text-align: right;
-  font-size: 60px
+  text-aign: ight;
+  font-sze: 0px
+
 }
 body{
   background-size: cover;
@@ -25,4 +26,34 @@ body{
   font-size: 30px;
   text-align: center;
 
+}
+#mySidenav a {
+  position:absolute;
+  left: 80px;
+  transition: 0.3s;
+  padding: 15x ;
+  width: 100px ;
+  text-decoration: none;
+  font-size: 20px ;
+  color: white ;
+  border-radius: 0 5px 5px 0
+}
+#mySidenav a:hover {
+  left: 0 ;
+}
+#index.html{
+  padding: 20px ;
+  background-color: #2196F3;
+}
+#aboutme{
+padding-top: 80px;
+  background-color: #4CAF50;
+}/*
+#projects.html{
+  top: 140px;
+  background-color: #f44336;
+}
+#contacts.html{
+  top:200px;
+  background-color: #555;
 }
