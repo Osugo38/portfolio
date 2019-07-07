@@ -5,11 +5,11 @@ h1 {
 }
 
 .color{
-  background-color: ##B5B5B ;
+  background-color:#eee;
 }
 
 .bon{
-  font-size: 30px;
+  font-size: 25px;
   text-align: center;
   background-color: ;
 }
@@ -20,7 +20,7 @@ h1 {
 }
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #eee;
   position: fixed;
   top: 0; /
   width: 100%;
@@ -28,27 +28,30 @@ h1 {
 .navbar a {
   float:left;
   display: block;
-  color: #f2f2f2;
+  color:black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 25px;
 }
 .navbar a:hover {
-  background: #ddd;
-  color: black;
+  background: black;
+  color: red;
+  font-size: 20px;
 }
 .main {
   font-size: 200px;
-  margin-top: -200px;
-text-indent: 0px;
+  margin-top: -540px;
+  line-height: 100px;
+text-indent: opx;
 padding-top: 00px;
-padding-right:400px;
+padding-right:600px;
 background-color: ;
 }
 .pic{
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 10px;
-  padding-left: 550px
+  padding-left: 1000px
 }
 *{
   font-family: 'Baloo', cursive;
@@ -56,26 +59,40 @@ background-color: ;
   margin:0;
   background: black
   background-image: url('images/mimi.jpg');
+  background-color: #ee;
 }
 .btn{
   color: white;
   font-size: 53px;
   font-weight: bold;
+  line-height: 20px
   font-family:
   padding left:px;
   top: opx;
   background-color: red;
 }
 .para{
-  padding-left: 20px;
+  padding-left: 50px;
   font family: 'Baloo', cursive;;
   font-size: 30px;
   color: white;
   background-color: black;
-  padding-bottom:10px:
+  padding-bottom:1px:
 }
 #pro{
   text-decoration:
  font-weight:600;
   font-family:times ;
+}
+.mail{
+  margin-left: 0;
+  position: relative;
+  top:200px;
+  font-size: 25px;
+
+  text-align: center;
+
+}
+.imp{
+  font-size: 200px;
 }
