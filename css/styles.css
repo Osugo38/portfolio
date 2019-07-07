@@ -2,58 +2,29 @@ h1 {
   text-align: center;
 }
 .navigation{
-  text-aign: ight;
-  font-sze: 0px
-
+  text-align: ight;
+  font-size: 60px
 }
-body{
-  background-size: cover;
+.apo{
+  margin : 0 ;
+  background-color: : #222;
+  font-family: sans-serif;
+  font-weight: 300;
 }
 
 #color{
   background-color: #e4c164  ;
 }
-#header{
-  font-size: 90px ;
-  color:  white ;
-}
-#me{
-  float :right ;
-  color: white ;
-  font-size: 50px
-}
+
 .bon{
   font-size: 30px;
   text-align: center;
+}
 
+.container{
+  width: 80%;
+  margin:auto;
 }
-#mySidenav a {
-  position:absolute;
-  left: 80px;
-  transition: 0.3s;
-  padding: 15x ;
-  width: 100px ;
-  text-decoration: none;
-  font-size: 20px ;
-  color: white ;
-  border-radius: 0 5px 5px 0
-}
-#mySidenav a:hover {
-  left: 0 ;
-}
-#index.html{
-  padding: 20px ;
-  background-color: #2196F3;
-}
-#aboutme{
-padding-top: 80px;
-  background-color: #4CAF50;
-}/*
-#projects.html{
-  top: 140px;
-  background-color: #f44336;
-}
-#contacts.html{
-  top:200px;
-  background-color: #555;
+.header{
+  background: #e4c164  ;
 }
