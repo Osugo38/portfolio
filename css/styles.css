@@ -15,8 +15,8 @@ h1 {
 }
 
   .bong{
-    font-size: 25px;
-    background-color:#B5B5B ;
+  font-size: 25px;
+  background-color:#B5B5B ;
 }
 .navbar {
   overflow: hidden;
@@ -43,10 +43,10 @@ h1 {
   font-size: 200px;
   margin-top: -540px;
   line-height: 100px;
-text-indent: opx;
-padding-top: 00px;
-padding-right:600px;
-background-color: ;
+  text-indent: opx;
+  padding-top: 00px;
+  padding-right:600px;
+  background-color: ;
 }
 .pic{
   padding-top: 100px;
@@ -59,7 +59,7 @@ background-color: ;
   margin:0;
   background: black
   background-image: url('images/mimi.jpg');
-  background-color: #ee;
+
 }
 .btn{
   color: white;
@@ -81,7 +81,7 @@ background-color: ;
 }
 #pro{
   text-decoration:
- font-weight:600;
+  font-weight:600;
   font-family:times ;
 }
 .mail{
