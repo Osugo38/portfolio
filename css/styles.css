@@ -5,11 +5,7 @@ h1 {
   text-align: ight;
   font-size: 60px
 }
-.apo{
-  margin : 0 ;
-  background-color: : #222;
-  font-family: sans-serif;
-  font-weight: 300;
+
 }
 
 #color{
@@ -20,11 +16,24 @@ h1 {
   font-size: 30px;
   text-align: center;
 }
-
-.container{
-  width: 80%;
-  margin:auto;
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0; /
+  width: 100%;
 }
-.header{
-  background: #e4c164  ;
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.main {
+  margin-top: 30px
